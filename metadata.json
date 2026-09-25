@@ -1,0 +1,6 @@
+{
+  "name": "Jurnal Sikawan Harian",
+  "description": "Aplikasi Jurnal Kerja Harian dan Rekap Bulanan Sikawan dengan cetak lembar kerja Folio, manajemen data pegawai, serta ekspor-impor Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
